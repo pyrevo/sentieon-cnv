@@ -1,0 +1,13 @@
+{
+    "normal": "/home/massi/Documents/Sentieon_scripts/TNscope/Blood_NGS",
+    "interval": "/media/Data2/mouna_testing_data/targets_GeneList_Mouna.bed",
+#    "interval": "/home/massi/Downloads/hg19.exome.bed",
+    "reference": "/media/Data4/ref/ucsc_hg19/hg19.fa",
+    "dbsnp": "/home/massi/Downloads/dbsnp_138.hg19.vcf",
+    "known_Mills_indels": "/home/massi/Downloads/Mills_and_1000G_gold_standard.indels.hg19.vcf",
+    "known_1000G_indels": "/home/massi/Downloads/1000G_phase1.indels.hg19.vcf",
+    "workdir": "/media/Data2/mouna_testing_data/results/PoN",
+    "platform": "ILLUMINA",
+    "R1_suffix": "_R1_001.fastq.gz",
+    "R2_suffix": "_R2_001.fastq.gz",
+}
